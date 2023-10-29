@@ -1,0 +1,10 @@
+using System;
+using System.Linq;
+
+public static class SumWithoutHighestAndLowestNumber
+{
+  public static int Sum(int[] numbers)
+  {
+    return numbers?.Length > 2 ? numbers.Sum() - (numbers.Max() + numbers.Min()) : 0;
+  }
+}

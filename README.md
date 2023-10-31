@@ -1,5 +1,5 @@
 # oath
-for those software developers who believes that is is the human who creates both — the idea and the technology
+for those software developers who believes that is is the human who invents both — the idea and the technology
 
 We all have ideas. The implemented ideas transformed into technologies.  
 Our community believes that is is the human who creates both — the idea and the technology.
